@@ -1,2 +1,2 @@
-# SauYin.github.io
+# SaulYin.github.io
 my personal website :)
