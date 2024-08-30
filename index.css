@@ -42,3 +42,11 @@ ul {
   li a:hover {
     background-color: #111111;
   }
+
+  a {
+    color: black;
+  }
+
+  a:hover {
+    background-color:#f90;
+  }
