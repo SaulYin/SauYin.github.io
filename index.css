@@ -6,6 +6,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  margin-bottom: 80px;
 }
 
 .title {
@@ -16,12 +17,8 @@ body {
   font-family: 'Trebuchet MS';
 }
 
-p2 {
-  width: 900px;
-}
-
-#ganzhou {
-  width: 700px;
+h2 {
+  width: 1200px;
 }
 
 ul {
@@ -53,4 +50,11 @@ a {
 
 a:hover {
   background-color: #f90;
+}
+
+img {
+  margin-left: 100px;
+  margin-top: 50px;
+  width: 400px;
+  height: 200px;
 }
